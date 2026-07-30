@@ -104,35 +104,35 @@ localhost/Saleem-Ice-Cream-Factory
 
 ## 📸 Screenshots
 
-(screenshot/1.png)
+![Screenshot 1](screenshot/1.png)
 
-(screenshot/2.png)
+![Screenshot 2](screenshot/2.png)
 
-(screenshot/3.png)
+![Screenshot 3](screenshot/3.png)
 
-(screenshot/4.png)
+![Screenshot 4](screenshot/4.png)
 
-(screenshot/5.png)
+![Screenshot 5](screenshot/5.png)
 
-(screenshot/6.png)
+![Screenshot 6](screenshot/6.png)
 
-(screenshot/7.png)
+![Screenshot 7](screenshot/7.png)
 
-(screenshot/8.png)
+![Screenshot 8](screenshot/8.png)
 
-(screenshot/9.png)
+![Screenshot 9](screenshot/9.png)
 
-(screenshot/10.png)
+![Screenshot 10](screenshot/10.png)
 
-(screenshot/11.png)
+![Screenshot 11](screenshot/11.png)
 
-(screenshot/12.png)
+![Screenshot 12](screenshot/12.png)
 
-(screenshot/14.png)
+![Screenshot 13](screenshot/13.png)
 
-(screenshot/15.png)
+![Screenshot 14](screenshot/14.png)
 
----
+![Screenshot 15](screenshot/15.png)
 
 ## 👩‍💻 Developer
 
