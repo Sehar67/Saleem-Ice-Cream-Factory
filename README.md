@@ -103,8 +103,34 @@ localhost/Saleem-Ice-Cream-Factory
 ---
 
 ## 📸 Screenshots
-![alt text](<Screenshot 2026-07-30 145034.png>) ![alt text](<Screenshot 2026-07-30 145025.png>) ![alt text](<Screenshot 2026-07-30 145015.png>) ![alt text](<Screenshot 2026-07-30 144957.png>) ![alt text](<Screenshot 2026-07-30 144938.png>) ![alt text](<Screenshot 2026-07-30 144924.png>) ![alt text](<Screenshot 2026-07-30 144909.png>) ![alt text](<Screenshot 2026-07-30 144900.png>) ![alt text](<Screenshot 2026-07-30 144845.png>) ![alt text](<Screenshot 2026-07-30 144834.png>) ![alt text](<Screenshot 2026-07-30 144819.png>) ![alt text](<Screenshot 2026-07-30 144811.png>) ![alt text](<Screenshot 2026-07-30 144757.png>) ![alt text](<Screenshot 2026-07-30 144744.png>)
 
+(screenshot/1.png)
+
+(screenshot/2.png)
+
+(screenshot/3.png)
+
+(screenshot/4.png)
+
+(screenshot/5.png)
+
+(screenshot/6.png)
+
+(screenshot/7.png)
+
+(screenshot/8.png)
+
+(screenshot/9.png)
+
+(screenshot/10.png)
+
+(screenshot/11.png)
+
+(screenshot/12.png)
+
+(screenshot/14.png)
+
+(screenshot/15.png)
 
 ---
 
